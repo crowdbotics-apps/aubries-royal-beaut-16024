@@ -1,0 +1,3 @@
+rootProject.name = 'aubries_royal_beaut_16024'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
